@@ -1,2 +1,2 @@
-# Analysis-of-Alogrithm : 
+# Analysis-of-Alogrithm
  5th Sem 
